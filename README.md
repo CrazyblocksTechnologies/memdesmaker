@@ -13,4 +13,4 @@ Instructions:
 
 Idea originally came up when coming up with descriptions for an Instagram account that posts about computer memory modules. This program can also be used in inventory management and e-commerce websites.
 
-All trademarks and logos in the app, images, and this file are property of their respective owners
+All trademarks and logos in the app, images and this file are property of their respective owners
