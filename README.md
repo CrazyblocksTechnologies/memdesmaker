@@ -2,8 +2,11 @@
 Python app for making descriptions of computer memory modules
 
 Example (on Windows 10):
+
 ![ExampleWindow](example_window.png)
+
 Would be a description of this memory module:
+
 ![ExampleModule](example_module.png)
 
 Instructions:
