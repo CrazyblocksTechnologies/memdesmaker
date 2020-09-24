@@ -1,3 +1,5 @@
+# Released under MIT license
+# See LICENSE for more information
 import tkinter as tk
 from tkinter import StringVar, Text
 
@@ -20,7 +22,7 @@ moduleBitWidthVar = StringVar(root)
 allSpeedsVar = StringVar(root)
 outputVar = StringVar(root)
 
-showDictInfo = 1 # Set this to 1 to print information on the dictionaries below, may cause performance issues on some systems, FOR DEBUG PURPOSES
+showDictInfo = 0 # Set this to 1 to print information on the dictionaries below, may cause performance issues on some systems, FOR DEBUG PURPOSES
 # Trademarks below are property of their respective owners
 # OEM means that the IC manufacturer labels a module with their own ICs with the IC manufacturer's name and logo and is usually sold to a system manufacturer such as Dell or Lenovo
 # Check if there is the IC manufacturer's label, some system builders label their modules for inventory managment. A common example is Hewlett Packard (HP).
